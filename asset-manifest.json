@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/uibuild-biz-cards/static/css/main.1009e723.css",
-    "main.js": "/uibuild-biz-cards/static/js/main.73eb29a2.js",
+    "main.js": "/uibuild-biz-cards/static/js/main.5381fc22.js",
     "static/js/787.68e4832d.chunk.js": "/uibuild-biz-cards/static/js/787.68e4832d.chunk.js",
     "index.html": "/uibuild-biz-cards/index.html",
     "main.1009e723.css.map": "/uibuild-biz-cards/static/css/main.1009e723.css.map",
-    "main.73eb29a2.js.map": "/uibuild-biz-cards/static/js/main.73eb29a2.js.map",
+    "main.5381fc22.js.map": "/uibuild-biz-cards/static/js/main.5381fc22.js.map",
     "787.68e4832d.chunk.js.map": "/uibuild-biz-cards/static/js/787.68e4832d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1009e723.css",
-    "static/js/main.73eb29a2.js"
+    "static/js/main.5381fc22.js"
   ]
 }
